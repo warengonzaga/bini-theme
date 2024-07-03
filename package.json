@@ -1,8 +1,26 @@
 {
   "name": "bini-theme",
   "displayName": "BINI Theme",
-  "description": "A Visual Studio Code theme for Bloom programmers.",
+  "description": "A Visual Studio Code theme for Bloom programmers and developers.",
   "version": "0.0.1",
+  "publisher": "warengonzaga",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warengonzaga/bini-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "warengonzaga",
+    "waren gonzaga",
+    "bini",
+    "bloom",
+    "bini theme",
+    "bloom theme",
+    "blue",
+    "dark blue",
+    "cyan"
+  ],
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -14,7 +32,7 @@
       {
         "label": "BINI Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/BINI Theme-color-theme.json"
+        "path": "./themes/bini-color-theme.json"
       }
     ]
   }

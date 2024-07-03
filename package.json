@@ -1,12 +1,16 @@
 {
   "name": "bini-theme",
   "displayName": "BINI Theme",
-  "description": "A Visual Studio Code theme for Bloom programmers and developers.",
+  "description": "A Visual Studio Code theme for Bloom programmers and developers. 🌸🎨💻",
   "version": "0.0.1",
   "publisher": "warengonzaga",
   "repository": {
     "type": "git",
     "url": "https://github.com/warengonzaga/bini-theme"
+  },
+  "license":"MIT",
+  "sponsor": {
+    "url": "https://github.com/sponsors/warengonzaga"
   },
   "keywords": [
     "theme",
@@ -24,6 +28,11 @@
   "engines": {
     "vscode": "^1.90.0"
   },
+  "icon": "images/icon/logo.png",
+  "galleryBanner": {
+    "color": "58C9D4",
+    "theme": "dark"
+  },
   "categories": [
     "Themes"
   ],
@@ -35,5 +44,16 @@
         "path": "./themes/bini-color-theme.json"
       }
     ]
-  }
+  },
+  "files": [
+    "README.md",
+    "themes",
+    "themes/*",
+    "themes/bini-color-theme.json",
+    "images/icon/logo.png",
+    "package.json",
+    "changelog.md",
+    "code-of-conduct.md",
+    ".vscodeignore"
+  ]
 }

@@ -2,8 +2,7 @@
 
 [![author/maintainer](https://img.shields.io/badge/by-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://warengonzaga.com) [![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/bini-theme.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/bini-theme/releases) [![star](https://img.shields.io/github/stars/warengonzaga/bini-theme.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/bini-theme/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/bini-theme.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/bini-theme/blob/main/license)
 
-[![banner](.github/assets/repo_banner.jpg)](https://github.com/warengonzaga/bini-theme)
-<!-- [![banner](https://raw.githubusercontent.com/warengonzaga/bini-theme/main/.github/assets/repo_banner.jpg)](https://github.com/warengonzaga/bini-theme) -->
+[![banner](https://raw.githubusercontent.com/warengonzaga/bini-theme/main/.github/assets/repo_banner.jpg)](https://github.com/warengonzaga/bini-theme)
 
 A Visual Studio Code theme for Bloom programmers and developers. 🌸🎨💻
 
@@ -13,7 +12,7 @@ Like this project? **Leave a star**! ⭐⭐⭐⭐⭐
 
 ## 😎 Preview
 
-[![preview](images/preview.png)](https://vscode.dev/editor/theme/warengonzaga.bini-theme)
+[![preview](images/preview.jpg)](https://vscode.dev/editor/theme/warengonzaga.bini-theme)
 
 ## 📥 Installation
 

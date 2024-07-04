@@ -42,10 +42,6 @@ Will update...
 
 Will update... -->
 
-## ⚙️ Project Activity
-
-![activity](https://repobeats.axiom.co/api/embed/c8f5353ec1a1c2a4bef5196ee9e28cf94fe86973.svg "BINI Theme Activity")
-
 ## 🎯 Contributing
 
 Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!

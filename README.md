@@ -1,13 +1,13 @@
-# BINI Theme 🌸 [![author/maintainer](https://img.shields.io/badge/by-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://warengonzaga.com) [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
+# BINI Theme 🌸 [![author/maintainer](https://img.shields.io/badge/by-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://warengonzaga.com) [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
-[![author/maintainer](https://img.shields.io/badge/by-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://warengonzaga.com) [![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/bini-theme.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/bini-theme/releases) [![star](https://img.shields.io/github/stars/warengonzaga/bini-theme.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/bini-theme/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/bini-theme.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/bini-theme/blob/main/license)
+[![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/bini-theme.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/bini-theme/releases) [![star](https://img.shields.io/github/stars/warengonzaga/bini-theme.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/bini-theme/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/bini-theme.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/bini-theme/blob/main/license)
 
 [![banner](https://raw.githubusercontent.com/warengonzaga/bini-theme/main/.github/assets/repo_banner.jpg)](https://github.com/warengonzaga/bini-theme)
 
 <div id="top" align="center">
     <br>
     <a href="https://github.com/warengonzaga/bini-theme">
-        <img alt="logo" width="100" height="100" src="https://raw.githubusercontent.com/warengonzaga/bini-theme/main/images/icon/logo.png">
+        <img alt="logo" width="150" height="150" src="https://raw.githubusercontent.com/warengonzaga/bini-theme/main/images/icon/logo.png">
     </a>
     <h4>A Visual Studio Code theme for Bloom programmers and developers. 🌸🎨💻</h4>
     <a href="https://marketplace.visualstudio.com/items?itemName=warengonzaga.bini-theme"><img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/warengonzaga.bini-theme?style=flat-square&logo=visualstudiocode&labelColor=181717&color=58C9D4"></a>
@@ -29,17 +29,17 @@
 4. Click **Reload** to reload the editor
 5. **Code** > **Preferences** > **Color Theme** > **BINI Theme**
 
-<!-- ## ❣️ Inspiration
+## ❣️ Inspiration
 
-Will update...
+I always wanted to create a theme for Visual Studio Code so I decided to create a theme that is inspired by the brand colors of a P-POP girl group in the Philippines called **[BINI](https://bini.global)**. I think this is a good opportunity to create a theme that is inspired by their brand colors and also support them in my own little way. 🌸
 
-## 🕹️ Usage
+<!-- [TODO] ## 🎨 Color Palette
 
-Will update...
+The colors I use is based on their official website. I compiled the colors and created a theme that is inspired by their brand colors. Here are the colors I used for this theme:
 
-## 💻 Development
+### ⌨️ Syntax Colors
 
-Will update... -->
+### ⚒️ UI Colors -->
 
 ## 🎯 Contributing
 

@@ -2,7 +2,7 @@
   "name": "bini-theme",
   "displayName": "BINI Theme",
   "description": "A Visual Studio Code theme for Bloom programmers and developers. 🌸🎨💻",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "warengonzaga",
   "repository": {
     "type": "git",

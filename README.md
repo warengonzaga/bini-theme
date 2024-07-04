@@ -33,13 +33,23 @@
 
 I always wanted to create a theme for Visual Studio Code so I decided to create a theme that is inspired by the brand colors of a P-POP girl group in the Philippines called **[BINI](https://bini.global)**. I think this is a good opportunity to create a theme that is inspired by their brand colors and also support them in my own little way. 🌸
 
-<!-- [TODO] ## 🎨 Color Palette
+## 🎨 Color Palette
 
-The colors I use is based on their official website. I compiled the colors and created a theme that is inspired by their brand colors. Here are the colors I used for this theme:
+The colors I use is based on their official website. I compiled the colors and created a theme that is inspired by their brand colors.
 
 ### ⌨️ Syntax Colors
 
-### ⚒️ UI Colors -->
+| Color (Default) | Usage                        |
+| --------------- | ---------------------------- |
+| #94a3b8         | Foreground                   |
+| #d6d8d9         | Variables, Properties        |
+| #58c9d4         | Keywords                     |
+| #b1b6b8         | Numbers                      |
+| #97d3f0         | Classes, Constants           |
+| #67b1ff         | Functions, Methods           |
+| #6bccf2         | Strings                      |
+| #7dafcd         | Operators, Special Functions |
+| #64748b         | Comments                     |
 
 ## 🎯 Contributing
 

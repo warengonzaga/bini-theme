@@ -9,7 +9,6 @@
     <a href="https://github.com/warengonzaga/bini-theme">
         <img alt="logo" width="100" height="100" src="https://raw.githubusercontent.com/warengonzaga/bini-theme/main/images/icon/logo.png">
     </a>
-    <h3>Background</h3>
     <h4>A Visual Studio Code theme for Bloom programmers and developers. 🌸🎨💻</h4>
     <a href="https://marketplace.visualstudio.com/items?itemName=warengonzaga.bini-theme"><img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/warengonzaga.bini-theme?style=flat-square&logo=visualstudiocode&labelColor=181717&color=58C9D4"></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=warengonzaga.bini-theme"><img alt="installs" src="https://img.shields.io/visual-studio-marketplace/i/warengonzaga.bini-theme?style=flat-square&logo=visualstudiocode&labelColor=181717&color=58C9D4"></a>

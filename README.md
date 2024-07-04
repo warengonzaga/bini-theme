@@ -4,13 +4,21 @@
 
 [![banner](https://raw.githubusercontent.com/warengonzaga/bini-theme/main/.github/assets/repo_banner.jpg)](https://github.com/warengonzaga/bini-theme)
 
-A Visual Studio Code theme for Bloom programmers and developers. 🌸🎨💻
-
-Have suggestions in mind? [Let me know!](https://github.com/warengonzaga/bini-theme/issues)
-
-Like this project? **Leave a star**! ⭐⭐⭐⭐⭐
-
-## 😎 Preview
+<div id="top" align="center">
+    <br>
+    <a href="https://github.com/warengonzaga/bini-theme">
+        <img alt="logo" width="100" height="100" src="https://raw.githubusercontent.com/warengonzaga/bini-theme/main/images/icon/logo.png">
+    </a>
+    <h3>Background</h3>
+    <h4>A Visual Studio Code theme for Bloom programmers and developers. 🌸🎨💻</h4>
+    <a href="https://marketplace.visualstudio.com/items?itemName=warengonzaga.bini-theme"><img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/warengonzaga.bini-theme?style=flat-square&logo=visualstudiocode&labelColor=181717&color=58C9D4"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=warengonzaga.bini-theme"><img alt="installs" src="https://img.shields.io/visual-studio-marketplace/i/warengonzaga.bini-theme?style=flat-square&logo=visualstudiocode&labelColor=181717&color=58C9D4"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=warengonzaga.bini-theme"><img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/warengonzaga.bini-theme?style=flat-square&logo=visualstudiocode&labelColor=181717&color=58C9D4"></a>
+    <br>
+    <br>
+    <p>Have suggestions in mind? <a href="https://github.com/warengonzaga/bini-theme/issues">Let me know!</a></p>
+    <p>Like this project? Leave a star! ⭐⭐⭐⭐⭐</p>
+</div>
 
 [![preview](images/preview.jpg)](https://vscode.dev/editor/theme/warengonzaga.bini-theme)
 
@@ -32,11 +40,11 @@ Will update...
 
 ## 💻 Development
 
-Will update...
+Will update... -->
 
-## ⚙️ Project Activity -->
+## ⚙️ Project Activity
 
-<!-- ![activity](https://repobeats.axiom.co/api/embed/552f3ea12e0f4afe85dac871ae8c57c554608f9a.svg "Repobeats analytics image") -->
+![activity](https://repobeats.axiom.co/api/embed/c8f5353ec1a1c2a4bef5196ee9e28cf94fe86973.svg "BINI Theme Activity")
 
 ## 🎯 Contributing
 

@@ -23,7 +23,23 @@
     "bloom theme",
     "blue",
     "dark blue",
-    "cyan"
+    "cyan",
+    "aiah",
+    "colet",
+    "gwen",
+    "jhoanna",
+    "maloi",
+    "mikha",
+    "sheena",
+    "stacey",
+    "aiah theme",
+    "colet theme",
+    "gwen theme",
+    "jhoanna theme",
+    "maloi theme",
+    "mikha theme",
+    "sheena theme",
+    "stacey theme"
   ],
   "engines": {
     "vscode": "^1.90.0"
@@ -42,6 +58,11 @@
         "label": "BINI Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/bini-color-theme.json"
+      },
+      {
+        "label": "BINI Theme (Aiah 🐶)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bini-theme-aiah-color-theme.json"
       }
     ]
   },

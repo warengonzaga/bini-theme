@@ -18,6 +18,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Updated the change log file to follow keep a changelog format.
 - Updated the readme file to include documentation which color I use for each color theme variant.
 
+### Fixed
+
+- Fixed suggestion color contrast.
+
 ## [0.0.4] - 2024-07-04
 
 ### Changed

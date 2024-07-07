@@ -62,7 +62,7 @@
       {
         "label": "BINI Theme (Aiah 🐶)",
         "uiTheme": "vs-dark",
-        "path": "./themes/bini-theme-aiah-color-theme.json"
+        "path": "./themes/bini-aiah-color-theme.json"
       }
     ]
   },

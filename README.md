@@ -33,23 +33,31 @@
 
 I always wanted to create a theme for Visual Studio Code so I decided to create a theme that is inspired by the brand colors of a P-POP girl group in the Philippines called **[BINI](https://bini.global)**. I think this is a good opportunity to create a theme that is inspired by their brand colors and also support them in my own little way. 🌸
 
-## 🎨 Color Palette
+## 🌸 Color Themes
+
+### 📦 BINI Theme (Default)
 
 The colors I use is based on their official website. I compiled the colors and created a theme that is inspired by their brand colors.
 
-### ⌨️ Syntax Colors
+| Syntax Color                                                                                                      | Usage                        |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| ![#94a3b8](https://img.shields.io/badge/%23-94a3b8-94a3b8.svg?labelColor=181717&longCache=true&style=flat-square) | Foreground                   |
+| ![#d6d8d9](https://img.shields.io/badge/%23-d6d8d9-d6d8d9.svg?labelColor=181717&longCache=true&style=flat-square) | Variables, Properties        |
+| ![#58c9d4](https://img.shields.io/badge/%23-58c9d4-58c9d4.svg?labelColor=181717&longCache=true&style=flat-square) | Keywords                     |
+| ![#b1b6b8](https://img.shields.io/badge/%23-b1b6b8-b1b6b8.svg?labelColor=181717&longCache=true&style=flat-square) | Numbers                      |
+| ![#97d3f0](https://img.shields.io/badge/%23-97d3f0-97d3f0.svg?labelColor=181717&longCache=true&style=flat-square) | Classes, Constants           |
+| ![#67b1ff](https://img.shields.io/badge/%23-67b1ff-67b1ff.svg?labelColor=181717&longCache=true&style=flat-square) | Functions, Methods           |
+| ![#6bccf2](https://img.shields.io/badge/%23-6bccf2-6bccf2.svg?labelColor=181717&longCache=true&style=flat-square) | Strings                      |
+| ![#7dafcd](https://img.shields.io/badge/%23-7dafcd-7dafcd.svg?labelColor=181717&longCache=true&style=flat-square) | Operators, Special Functions |
+| ![#64748b](https://img.shields.io/badge/%23-64748b-64748b.svg?labelColor=181717&longCache=true&style=flat-square) | Comments                     |
 
-| Color (Default) | Usage                        |
-| --------------- | ---------------------------- |
-| #94a3b8         | Foreground                   |
-| #d6d8d9         | Variables, Properties        |
-| #58c9d4         | Keywords                     |
-| #b1b6b8         | Numbers                      |
-| #97d3f0         | Classes, Constants           |
-| #67b1ff         | Functions, Methods           |
-| #6bccf2         | Strings                      |
-| #7dafcd         | Operators, Special Functions |
-| #64748b         | Comments                     |
+### 🐶 BINI Theme (Aiah Theme)
+
+The color I use for this variant is based on the color of **Aiah** combined with the color of BINI theme default color palette. I created this variant to support **Aiah** and also to create a new variant for the BINI theme. If your bias is Aiah, feel free to use this color theme variant.
+
+| Syntax Color                                                                                                      | Usage    |
+| ----------------------------------------------------------------------------------------------------------------- | -------- |
+| ![#7dafcd](https://img.shields.io/badge/%23-7dafcd-7dafcd.svg?labelColor=181717&longCache=true&style=flat-square) | Keywords |
 
 ## 🎯 Contributing
 

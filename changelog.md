@@ -16,6 +16,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Updated README.md file.
 - Bumped version to v0.1.0.
 - Updated the change log file to follow keep a changelog format.
+- Updated the readme file to include documentation which color I use for each color theme variant.
 
 ## [0.0.4] - 2024-07-04
 

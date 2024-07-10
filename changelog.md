@@ -10,6 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added `bini-theme-aiah-color-theme` variant.
 - Added `bini-theme-colet-color-theme` variant.
+- Added `bini-theme-gwen-color-theme` variant.
 
 ### Changed
 

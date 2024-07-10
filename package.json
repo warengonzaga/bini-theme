@@ -68,6 +68,11 @@
         "label": "BINI Theme (Colet 🐺)",
         "uiTheme": "vs-dark",
         "path": "./themes/bini-colet-color-theme.json"
+      },
+      {
+        "label": "BINI Theme (Gwen 🐨)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bini-gwen-color-theme.json"
       }
     ]
   },

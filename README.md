@@ -67,6 +67,14 @@ The color I use for this variant is based on the color of **Colet** combined wit
 | ----------------------------------------------------------------------------------------------------------------- | -------- |
 | ![#0fb42d](https://img.shields.io/badge/%23-0fb42d-0fb42d.svg?labelColor=181717&longCache=true&style=flat-square) | Keywords |
 
+### 🐨 BINI Theme (Gwen Theme)
+
+The color I use for this variant is based on the color of **Gwen** combined with the color of BINI theme default color palette. I created this variant to support **Gwen** and also to create a new variant for the BINI theme. If your bias is Gwen, feel free to use this color theme variant.
+
+| Syntax Color                                                                                                      | Usage    |
+| ----------------------------------------------------------------------------------------------------------------- | -------- |
+| ![#f4793d](https://img.shields.io/badge/%23-f4793d-f4793d.svg?labelColor=181717&longCache=true&style=flat-square) | Keywords |
+
 ## 🎯 Contributing
 
 Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!

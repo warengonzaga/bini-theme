@@ -63,6 +63,11 @@
         "label": "BINI Theme (Aiah 🐶)",
         "uiTheme": "vs-dark",
         "path": "./themes/bini-aiah-color-theme.json"
+      },
+      {
+        "label": "BINI Theme (Colet 🐺)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bini-colet-color-theme.json"
       }
     ]
   },

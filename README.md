@@ -59,6 +59,14 @@ The color I use for this variant is based on the color of **Aiah** combined with
 | ----------------------------------------------------------------------------------------------------------------- | -------- |
 | ![#7dafcd](https://img.shields.io/badge/%23-7dafcd-7dafcd.svg?labelColor=181717&longCache=true&style=flat-square) | Keywords |
 
+### 🐺 BINI Theme (Colet Theme)
+
+The color I use for this variant is based on the color of **Colet** combined with the color of BINI theme default color palette. I created this variant to support **Colet** and also to create a new variant for the BINI theme. If your bias is Colet, feel free to use this color theme variant.
+
+| Syntax Color                                                                                                      | Usage    |
+| ----------------------------------------------------------------------------------------------------------------- | -------- |
+| ![#0fb42d](https://img.shields.io/badge/%23-0fb42d-0fb42d.svg?labelColor=181717&longCache=true&style=flat-square) | Keywords |
+
 ## 🎯 Contributing
 
 Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!

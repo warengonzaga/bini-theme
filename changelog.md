@@ -9,7 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Added `bini-theme-aiah-color-theme` variant.
-- Added documentation for color theme palette I used for the `bini-theme-color-theme` syntax.
+- Added `bini-theme-colet-color-theme` variant.
 
 ### Changed
 

@@ -18,7 +18,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Bumped version to v0.1.0.
 - Updated the change log file to follow keep a changelog format.
 - Updated the readme file to include documentation which color I use for each color theme variant.
-- Updated the color of `activityBarBadge.foreground` color from #45484c to #101317.
+- Updated the color of `activityBarBadge.foreground` color from `#45484c` to `#101317`.
+- Updated `bini-aiah-color-theme` with more of her color.
+- Updated `bini-aiah-color-theme` color list and input options.
+  - `list.activeSelectionBackground` from `#79b3be` to `#9FC8D1`.
+  - `list.highlightForeground` from `#79b3be` to `#498A97`.
+  - `inputOption.activeBackground` from `#58c9d460` to `#123866`.
 
 ### Fixed
 

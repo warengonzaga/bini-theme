@@ -2,7 +2,7 @@
   "name": "bini-theme",
   "displayName": "BINI Theme",
   "description": "A Visual Studio Code theme for Bloom programmers and developers. 🌸🎨💻",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "publisher": "warengonzaga",
   "repository": {
     "type": "git",
@@ -23,7 +23,23 @@
     "bloom theme",
     "blue",
     "dark blue",
-    "cyan"
+    "cyan",
+    "aiah",
+    "colet",
+    "gwen",
+    "jhoanna",
+    "maloi",
+    "mikha",
+    "sheena",
+    "stacey",
+    "aiah theme",
+    "colet theme",
+    "gwen theme",
+    "jhoanna theme",
+    "maloi theme",
+    "mikha theme",
+    "sheena theme",
+    "stacey theme"
   ],
   "engines": {
     "vscode": "^1.90.0"
@@ -42,6 +58,21 @@
         "label": "BINI Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/bini-color-theme.json"
+      },
+      {
+        "label": "BINI Theme (Aiah 🐶)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bini-aiah-color-theme.json"
+      },
+      {
+        "label": "BINI Theme (Colet 🐺)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bini-colet-color-theme.json"
+      },
+      {
+        "label": "BINI Theme (Gwen 🐨)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bini-gwen-color-theme.json"
       }
     ]
   },

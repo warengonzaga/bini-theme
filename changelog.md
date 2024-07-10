@@ -17,6 +17,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Bumped version to v0.1.0.
 - Updated the change log file to follow keep a changelog format.
 - Updated the readme file to include documentation which color I use for each color theme variant.
+- Updated the color of `activityBarBadge.foreground` color from #45484c to #101317.
 
 ### Fixed
 

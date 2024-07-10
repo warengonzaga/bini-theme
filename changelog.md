@@ -24,6 +24,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - `list.activeSelectionBackground` from `#79b3be` to `#9FC8D1`.
   - `list.highlightForeground` from `#79b3be` to `#498A97`.
   - `inputOption.activeBackground` from `#58c9d460` to `#123866`.
+- Updated `bini-color-theme` list and gitignore foreground color.
+  - `inputOption.activeBackground` from `#58c9d460` to `#12386660`.
+  - `gitDecoration.ignoredResourceForeground` from `#45484c` to `#8c8c8c`.
 
 ### Fixed
 
